@@ -25,8 +25,8 @@ This project presents a dynamic and interactive **Banking Analytics Dashboard** 
   - By Banking Relationship
 - Year, Gender, and Advisor filters for dynamic slicing
 
-### 3. **Summary Page** (Coming Soon / WIP)
-- KPIs with % changes (with ↑/↓ arrows and color indicators)
+### 3. **Summary Page** 
+- KPIs with % changes
 - Trends in deposits and loans over time
 - Risk Flags:
   - High credit card balance with low income
